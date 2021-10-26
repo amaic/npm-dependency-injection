@@ -1,0 +1,12 @@
+{
+  "name": "@amaic/dependency-injection",
+  "version": "0.0.0",
+  "description": "Simple implementation of dependency injection logic with manual service registration.",
+  "keywords": ["DI","dependency","injection"],
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexander Mauri",
+  "license": "ISC"
+}
